@@ -1,0 +1,10 @@
+config = {
+  "apiKey": "AIzaSyAL24iIRSWo7LgbTThFANtWJRQTRlrkaLE",
+  "authDomain": "curt-task-1.firebaseapp.com",
+  "databaseURL": "https://curt-task-1-default-rtdb.firebaseio.com",
+  "projectId": "curt-task-1",
+  "storageBucket": "curt-task-1.appspot.com",
+  "messagingSenderId": "886604515855",
+  "appId": "1:886604515855:web:9a876a8470f0292f03f17a",
+  "measurementId": "G-R85RM9T8HM"
+};
